@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycacache__
+myvenv
+db.sqllite3
+/static
+.DS_Store
